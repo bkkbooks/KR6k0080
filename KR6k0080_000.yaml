@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0080/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 梵網經菩薩戒本疏
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T40/T40n1813.xml
+    old_id: T40n1813
+hash: sha256:d2872005d234b1f4e95996ca44c13976553623efcdaf7651429e5c41659f1fb5
