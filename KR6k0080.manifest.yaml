@@ -28,19 +28,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0080_000.yaml, hash: 'sha256:d2872005d234b1f4e95996ca44c13976553623efcdaf7651429e5c41659f1fb5'}
-  - {seq: 1, filename: KR6k0080_001.yaml, hash: 'sha256:c408a3d7bbfbdc01261c75d26e04d934fd1e7370fc75ffff6405be6925c4be00'}
-  - {seq: 2, filename: KR6k0080_002.yaml, hash: 'sha256:3b06f2bcecfad7bf24ddb36ccdcfac467e21643f6381419af2bba29674f3eb25'}
-  - {seq: 3, filename: KR6k0080_003.yaml, hash: 'sha256:8f86133bd618df8aede8613121dc58984a6d4202863a962d7521d2546085ebe8'}
-  - {seq: 4, filename: KR6k0080_004.yaml, hash: 'sha256:f4550bc83ba6f83e4f4a281be64c6a58562f5c9d9e5f0d69ac837d460cd78ddb'}
-  - {seq: 5, filename: KR6k0080_005.yaml, hash: 'sha256:149e18f65f45ab516a12d2668afec095e42a08a309a66320bf155fb286067892'}
-  - {seq: 6, filename: KR6k0080_006.yaml, hash: 'sha256:c03078a983865294548e5ab1bb4d5bf13e981bf4355ac831158907fcb119c9f6'}
+  - {seq: 1, filename: KR6k0080_001.yaml, hash: 'sha256:eb037db2443e7dc8f3872afe35024a0c657a073b998c3bccd50ad7d69e01cec9'}
+  - {seq: 2, filename: KR6k0080_002.yaml, hash: 'sha256:685c0379b3db1639fd8fb250b95e57c939288c8ca8969549028e98997e1dde03'}
+  - {seq: 3, filename: KR6k0080_003.yaml, hash: 'sha256:62da24e6b08098325834428bb45a061969ba880c72c2b3402472a982ce248821'}
+  - {seq: 4, filename: KR6k0080_004.yaml, hash: 'sha256:83f5011ef6862a63840537bfb9b0684b5754720f0cbfa7f290fb3ca74a57bb29'}
+  - {seq: 5, filename: KR6k0080_005.yaml, hash: 'sha256:f61bc0a34869c04f78684591e6aeaf9521da5832bec929517f63e20bd4069e07'}
+  - {seq: 6, filename: KR6k0080_006.yaml, hash: 'sha256:e7c51fa619b44cfa4cac03c30289814c87d66a429c5b181f3803154a9a875b2a'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0080_001.markers.yaml, hash: 'sha256:494c89e2b4f7799c4535d16ecf70c8a6e216ee289ee617b1b2e674d3cd6853ae'}
-  - {seq: 2, role: markers, filename: assets/KR6k0080_002.markers.yaml, hash: 'sha256:4a6d07c36f1c36d6187538c693a36db3b3c5753747db1d7e7de1ac5468ff957d'}
-  - {seq: 3, role: markers, filename: assets/KR6k0080_003.markers.yaml, hash: 'sha256:ed98dce1831c19387b28ded7585256c68647e01d44a41581558c0f083296135f'}
-  - {seq: 4, role: markers, filename: assets/KR6k0080_004.markers.yaml, hash: 'sha256:09f51d8af7357c00a34ba5e021243f9b49ce61334d2cd2b8965a8e5f5df434ef'}
-  - {seq: 5, role: markers, filename: assets/KR6k0080_005.markers.yaml, hash: 'sha256:012bfa01f7cb6683632e40bcd2f319e20684995425a404c416568bb56a1a21df'}
-  - {seq: 6, role: markers, filename: assets/KR6k0080_006.markers.yaml, hash: 'sha256:e4b6ed82765c25e03dbefdd723979ebaace1d2c2cb554b5c04242e37c67a643d'}
+  - {seq: 0, role: markers, filename: assets/KR6k0080_000.markers.yaml, hash: 'sha256:28e556801c00d62e59231f3929c228e2e2e9f8c35c47cb9ad8b1d2c185017f3d'}
+  - {seq: 1, role: markers, filename: assets/KR6k0080_001.markers.yaml, hash: 'sha256:4da6c21ec246124318ec5ea32c553c5eef2f629c93e076c3766c6a6260e81b3a'}
+  - {seq: 2, role: markers, filename: assets/KR6k0080_002.markers.yaml, hash: 'sha256:38bf5f7aa7c46e62fa80dc650e2014a78bd4a0259f8c4b86d5a3c1f595afdef8'}
+  - {seq: 3, role: markers, filename: assets/KR6k0080_003.markers.yaml, hash: 'sha256:27a427faf9c377ae0a36157154b00c01645f8aa7e1e039d62022adf366db165a'}
+  - {seq: 4, role: markers, filename: assets/KR6k0080_004.markers.yaml, hash: 'sha256:051bd6b96e204ad6d502a93cc099378f045042494cc57b49683dd063379bd845'}
+  - {seq: 5, role: markers, filename: assets/KR6k0080_005.markers.yaml, hash: 'sha256:259876ac1bc6fd9a13bba658ae7a3a9f3d290d5b10fdbe6f7ba9027de99d3954'}
+  - {seq: 6, role: markers, filename: assets/KR6k0080_006.markers.yaml, hash: 'sha256:49c1744d33f8db0774933805889d99083153bef9242f809c9f1f3a384a3f0f41'}
 table_of_contents:
 - ref:
     seq: 1
@@ -702,7 +703,4 @@ table_of_contents:
   label: 48 自壞內法戒
   type: mulu
   level: 1
-hash: sha256:2a76ab228a986a245487e791cdcf6ddc0c1694eddaca07cb7e1c858519951223
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2132f572c816038a012cb5d9bc1003af18639be5790baaffd694bd2e7425db8c
