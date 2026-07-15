@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6k0080/v1
 canonical_location: https://kanripo.org/bkk/KR6k0080/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 梵網經菩薩戒本疏
   identifiers:
@@ -28,20 +28,20 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0080_000.yaml, hash: 'sha256:d2872005d234b1f4e95996ca44c13976553623efcdaf7651429e5c41659f1fb5'}
-  - {seq: 1, filename: KR6k0080_001.yaml, hash: 'sha256:eb037db2443e7dc8f3872afe35024a0c657a073b998c3bccd50ad7d69e01cec9'}
-  - {seq: 2, filename: KR6k0080_002.yaml, hash: 'sha256:685c0379b3db1639fd8fb250b95e57c939288c8ca8969549028e98997e1dde03'}
-  - {seq: 3, filename: KR6k0080_003.yaml, hash: 'sha256:62da24e6b08098325834428bb45a061969ba880c72c2b3402472a982ce248821'}
-  - {seq: 4, filename: KR6k0080_004.yaml, hash: 'sha256:83f5011ef6862a63840537bfb9b0684b5754720f0cbfa7f290fb3ca74a57bb29'}
-  - {seq: 5, filename: KR6k0080_005.yaml, hash: 'sha256:f61bc0a34869c04f78684591e6aeaf9521da5832bec929517f63e20bd4069e07'}
-  - {seq: 6, filename: KR6k0080_006.yaml, hash: 'sha256:e7c51fa619b44cfa4cac03c30289814c87d66a429c5b181f3803154a9a875b2a'}
+  - {seq: 1, filename: KR6k0080_001.yaml, hash: 'sha256:bdd3857d468305a3dcbd7b75ca0c765e307c2c95795be4c863c2c116a4bfb6e5'}
+  - {seq: 2, filename: KR6k0080_002.yaml, hash: 'sha256:676e7fb9e92e33526a4c2f7f4a4d6b76912caf642f188378530e99069c2782c6'}
+  - {seq: 3, filename: KR6k0080_003.yaml, hash: 'sha256:707a3537cb6ea15fca2f4264758f6c0348fd92fdce1d44bf25c9887015a39d18'}
+  - {seq: 4, filename: KR6k0080_004.yaml, hash: 'sha256:0811c705263537bdb485903f66c0c403189be8786efb1364117f1352ef30eb4d'}
+  - {seq: 5, filename: KR6k0080_005.yaml, hash: 'sha256:aebb26e00086b81374f39bb88f1fba15b56f557c8899b24125dd76b27eef06df'}
+  - {seq: 6, filename: KR6k0080_006.yaml, hash: 'sha256:0de320ec84511ea791f4a5539f14bb17793d416449ee01c3bef78b1121b2c1c2'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6k0080_000.markers.yaml, hash: 'sha256:28e556801c00d62e59231f3929c228e2e2e9f8c35c47cb9ad8b1d2c185017f3d'}
-  - {seq: 1, role: markers, filename: assets/KR6k0080_001.markers.yaml, hash: 'sha256:4da6c21ec246124318ec5ea32c553c5eef2f629c93e076c3766c6a6260e81b3a'}
-  - {seq: 2, role: markers, filename: assets/KR6k0080_002.markers.yaml, hash: 'sha256:38bf5f7aa7c46e62fa80dc650e2014a78bd4a0259f8c4b86d5a3c1f595afdef8'}
-  - {seq: 3, role: markers, filename: assets/KR6k0080_003.markers.yaml, hash: 'sha256:27a427faf9c377ae0a36157154b00c01645f8aa7e1e039d62022adf366db165a'}
-  - {seq: 4, role: markers, filename: assets/KR6k0080_004.markers.yaml, hash: 'sha256:051bd6b96e204ad6d502a93cc099378f045042494cc57b49683dd063379bd845'}
-  - {seq: 5, role: markers, filename: assets/KR6k0080_005.markers.yaml, hash: 'sha256:259876ac1bc6fd9a13bba658ae7a3a9f3d290d5b10fdbe6f7ba9027de99d3954'}
-  - {seq: 6, role: markers, filename: assets/KR6k0080_006.markers.yaml, hash: 'sha256:49c1744d33f8db0774933805889d99083153bef9242f809c9f1f3a384a3f0f41'}
+  - {seq: 1, role: markers, filename: assets/KR6k0080_001.markers.yaml, hash: 'sha256:c5e8387e4b893172ee3907a2929c472a9354643a679e24a0915cfb71ef3255e5'}
+  - {seq: 2, role: markers, filename: assets/KR6k0080_002.markers.yaml, hash: 'sha256:085789dee71fe40d375451847f861c222bec429f6477271879cab362426d6a6c'}
+  - {seq: 3, role: markers, filename: assets/KR6k0080_003.markers.yaml, hash: 'sha256:7711f79d3d3f31979257380da938d431ea80d964985e7076dc4315534880293a'}
+  - {seq: 4, role: markers, filename: assets/KR6k0080_004.markers.yaml, hash: 'sha256:b30d302bf197872a51c01ef7e059f887cc8e5a937ee7086909e14d95ab25038d'}
+  - {seq: 5, role: markers, filename: assets/KR6k0080_005.markers.yaml, hash: 'sha256:80b620c74b443c93997233aaaad526ce62a05e0f9e8cfaad58239945e2efcaa6'}
+  - {seq: 6, role: markers, filename: assets/KR6k0080_006.markers.yaml, hash: 'sha256:7e0075698f78b2399bf4903a52bf5c0b70bbb16bbe14f663ac54d5ce43b1c4dd'}
 table_of_contents:
 - ref:
     seq: 1
@@ -703,4 +703,7 @@ table_of_contents:
   label: 48 自壞內法戒
   type: mulu
   level: 1
-hash: sha256:2132f572c816038a012cb5d9bc1003af18639be5790baaffd694bd2e7425db8c
+hash: sha256:e5848e75f62da9d8d9a55508e06fd20abcc10414cfd8e3c87fb7f15430442945
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
